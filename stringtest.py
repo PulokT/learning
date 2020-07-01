@@ -1,2 +1,2 @@
-eee="onek " + "pera"
+eee = "onek " + "per"
 print(eee)

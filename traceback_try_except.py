@@ -6,4 +6,4 @@ except:
 if x > 0:
     print('Nice job')
 else:
-    print('Not a Number')
+    print('Not A Number')
